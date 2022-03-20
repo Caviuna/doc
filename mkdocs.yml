@@ -1,0 +1,63 @@
+site_name: Caviuna
+
+repo_url: https://github.com/Caviuna 
+
+theme: 
+    name: material
+    feature: 
+      - navigation.tabs 
+    palette:
+      - scheme: default
+        primary: red 
+        toggle: 
+          icon: material/weather-night
+          name: Modo noturno
+      - scheme: slate
+        primary: red 
+        toggle: 
+          icon: material/weather-sunny
+          name: Modo claro
+
+# import pymdownx.arithmatex as arithmatex: 
+
+# markdown_extension:  
+#     - pymdownx.superfences: 
+#          custom_fences: 
+#           - name: math
+#             class: arithmatex
+#             format: arithmatex.arithmatex.arithmatex_inline_format(which="generic")
+
+plugins:
+    - mkdocs-video
+
+markdown_extensions: 
+    - md_in_html
+    - admonition 
+    # - pymdownx.inlinehilite
+    - pymdownx.emoji 
+    - pymdownx.tasklist
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.highlight 
+    - pymdownx.b64
+    - pymdownx.tabbed: 
+        alternate_style: true 
+    - pymdownx.arithmatex:
+        generic: true 
+    - pymdownx.superfences: 
+        custom_fences: 
+          - name: mermaid
+            class: mermaid 
+            format: !!python/name:pymdownx.superfences.fence_div_format
+         
+    
+
+extra_css:
+  - https://unpkg.com/mermaid@8.6.4/dist/mermaid.css
+extra_javascript: 
+  - https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js
+
+
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # - https://polyfill.io/v3/polyfill.min.js?features=es6
+
