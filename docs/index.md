@@ -17,7 +17,7 @@ para baixo para jantar...) e as infindáveis atividades… se perdeu.
 
 Caviuna's movement: He was totally discontinued in his everyday business, in the morning, having observed the time beforehand, he was aware of the delay in his daily activities. Talking between a pause and another with his own hum, he explained how the conditions in which, cadenced by the endless stages of what cannot be completed, soon after, in thought, he concluded. No one with training could enjoy, past all other events (a new day, getting up, checking schedule, going to the bathroom, checking messages, discontinuing, balancing on a new day, lunchtime, going to the side left to use the bathroom, jump out the window to get some water, turn upside down for dinner...) and the endless activities... got lost.
 
-## A fantastic project
+## Ability, knowledge, and learning
 
 * Sculpture and virtual art - Escultura e arte virtual
 * Technology applied - Tecnologia aplicada
