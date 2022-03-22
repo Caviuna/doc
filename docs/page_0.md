@@ -1,8 +1,8 @@
 # Projects
 
-## A fantastic project
+## Current Projects
 
-## Digital projects
+### Digital projects
 
 - Passaredo:
 
@@ -18,11 +18,11 @@
 
 ![Image](/img/pr_sine_wave_v4.gif)
 
-## Processing projects
+#### Processing projects
 
 ![Processing]<https://processing.org/>
 
-### Code
+#### Code
 
 ```{.py3 title="pr_sine_wave.py"}
 """
